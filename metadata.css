@@ -1,0 +1,26 @@
+/*
+* Moira Smith
+* November 8, 2018
+* Meta Data Classwork
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+header {  
+    background-color: lightblue;
+        color: black
+}
+main {  
+    background-color: lightgreen;
+        color: black
+}
+footer {  
+    background-color: lightpink;
+        color: black
+}
